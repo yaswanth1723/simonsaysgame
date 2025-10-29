@@ -14,3 +14,6 @@ The goal is to repeat the sequence of colors shown by the game. Each level adds 
 - HTML
 - CSS
 - JavaScript (DOM manipulation and event handling)
+
+## 🌐 Live Demo
+👉 [Play it here!](https://yaswanth1723.github.io/simonsaysgame/)
